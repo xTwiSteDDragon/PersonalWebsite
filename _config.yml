@@ -1,0 +1,9 @@
+# Site Settings
+title: Great New Blog Title
+author: 
+  name: Zach
+  email: your-email.com
+description: "Great site about me!"
+
+# Build Settings
+remote_theme: jekyll/minima
